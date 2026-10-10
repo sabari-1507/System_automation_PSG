@@ -1,0 +1,10 @@
+Reading: {'temperature': 53.48, 'pressure': 4.37, 'vibration': 0.17} | Rule: NO_RULE_FIRED | Action: CONTINUE_NORMAL
+Reading: {'temperature': 76.4, 'pressure': 4.26, 'vibration': 3.63} | Rule: NO_RULE_FIRED | Action: CONTINUE_NORMAL
+Reading: {'temperature': 74.18, 'pressure': 13.65, 'vibration': 2.99} | Rule: HIGH_PRESSURE | Action: REDUCE_PRESSURE
+Reading: {'temperature': 63.79, 'pressure': 1.32, 'vibration': 9.23} | Rule: HIGH_VIBRATION | Action: INSPECT_MACHINE
+Reading: {'temperature': 61.18, 'pressure': 5.58, 'vibration': 0.31} | Rule: NO_RULE_FIRED | Action: CONTINUE_NORMAL
+Reading: {'temperature': 67.51, 'pressure': 2.41, 'vibration': 2.92} | Rule: NO_RULE_FIRED | Action: CONTINUE_NORMAL
+Reading: {'temperature': 57.46, 'pressure': 14.8, 'vibration': 5.31} | Rule: HIGH_PRESSURE | Action: REDUCE_PRESSURE
+Reading: {'temperature': 75.25, 'pressure': 10.87, 'vibration': 1.39} | Rule: HIGH_PRESSURE | Action: REDUCE_PRESSURE
+Reading: {'temperature': 74.07, 'pressure': 6.31, 'vibration': 9.21} | Rule: HIGH_VIBRATION | Action: INSPECT_MACHINE
+Reading: {'temperature': 58.19, 'pressure': 19.47, 'vibration': 6.63} | Rule: HIGH_PRESSURE | Action: REDUCE_PRESSURE
