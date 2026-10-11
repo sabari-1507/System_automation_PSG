@@ -1,1 +1,1 @@
-This workspace is made during the Workspace at System Automation Course 
+This workspace is made during the Workshop at System Automation Course 
