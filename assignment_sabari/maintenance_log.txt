@@ -1,0 +1,12 @@
+# maintenance log - format:  date | arm | joint: note
+2026-10-02 | ARM-02 | base: repainted the safety fence near the cell
+2026-10-09 | ARM-01 | wrist: cleaned the gripper pads, all fine
+2026-10-10 | ARM-04 | elbow: replaced a zip tie on the cable chain
+2026-10-11 | ARM-03 | wrist: slightly rough movement when it rotates, some backlash felt by hand
+2026-10-12 | ARM-02 | elbow: heard a grinding noise at the elbow during the slow cycle
+2026-10-13 | ARM-05 | shoulder: no leak, no unusual noise, grease topped up
+2026-10-13 | ARM-03 | shoulder: vibration felt on the base plate, looks like it got worse than last week
+2026-10-14 | ARM-01 | base: label on the controller replaced
+2026-10-14 | ARM-05 | elbow: coolant line looks fine, not overheating
+2026-10-15 | ARM-04 | shoulder: operator asked about the shift roster (not a robot issue)
+2026-08-20 | ARM-01 | elbow: grinding noise and burning smell, bearing swapped  (old entry)
